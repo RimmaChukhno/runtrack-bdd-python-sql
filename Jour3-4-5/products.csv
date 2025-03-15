@@ -1,0 +1,13 @@
+ID,Nom,Description,Prix,Quantité,Catégorie
+1,Smartphone XYZ,Smartphone dernière génération,599,15,Électronique
+2,Ordinateur portable,Ordinateur portable 15 pouces,899,10,Électronique
+11,Lenovo,Laptop,400,2,Électronique
+17,tv,tv,200,2,Électronique
+3,T-shirt,T-shirt en coton bio,25,50,Vêtements
+4,Jeans,Jeans coupe droite,45,30,Vêtements
+5,Chocolat noir,Tablette 100g,3,100,Alimentation
+6,Café arabica,Paquet 250g,8,40,Alimentation
+7,Roman fantaisie,Bestseller international,20,25,Livres
+8,Bande dessinée,Tome 1,15,20,Livres
+9,Lampe de bureau,LED ajustable,35,12,Maison
+10,Tapis,"140x200cm, coton",75,8,Maison
